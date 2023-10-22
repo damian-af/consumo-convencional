@@ -10,7 +10,7 @@ El conocimiento en este repositorio se explica por sí solo a través del uso de
 
 ## Como agregar información a este repositorio
 
-Cualquier práctica que promueva el consumo/producción consciente es bienvenida al repositorio.
+Cualquier práctica que promueva el consumo/producción consciente es bienvenida al repositorio. Es posible complementar con información relevante cualquiera de las ideas ya existentes.
 
 ### La plataforma GitHub
 
