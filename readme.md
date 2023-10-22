@@ -1,8 +1,8 @@
 # Consumo convencional
 
-Este es un repositorio de prácticas para aquellos/nosotros que buscamos construir una relación consumo-producción más amable con el entorno.
+Este es un repositorio de prácticas para aquellos/nosotros quienes buscamos construir una relación consumo-producción más amable con el entorno.
 
-Comparte tus ideas y complemente esta consciencia.
+Comparte tus ideas y complementa esta consciencia.
 
 ## El conocimiento en este repositorio
 
