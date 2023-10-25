@@ -1,0 +1,1 @@
+Qué aburrido usar el consumismo/producción inconscientes como nuestra identidad primaria
