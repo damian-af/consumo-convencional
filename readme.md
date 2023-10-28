@@ -1,8 +1,13 @@
-# Consumo convencional
+# [Consumo convencional](https://github.com/damian-af/consumo-convencional)
 
 Este es un repositorio de prácticas para aquellos/nosotros quienes buscamos construir una relación consumo-producción más amable con el entorno.
 
 Comparte tus ideas y complementa esta consciencia.
+
+Los siguientes son proyectos que inspiran las intenciones de este repositorio:
+
+- [Conventional comments](https://conventionalcomments.org)
+- [Conventional commits](https://www.conventionalcommits.org/)
 
 ## El conocimiento en este repositorio
 
