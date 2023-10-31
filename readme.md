@@ -4,7 +4,7 @@ Este es un repositorio de prácticas para aquellos/nosotros quienes buscamos con
 
 Comparte tus ideas y complementa esta consciencia.
 
-Los siguientes son proyectos que inspiran las intenciones de este repositorio:
+Los siguientes son proyectos que inspiran las maneras de este repositorio:
 
 - [Conventional comments](https://conventionalcomments.org)
 - [Conventional commits](https://www.conventionalcommits.org/)
